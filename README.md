@@ -1,0 +1,2 @@
+# SenseiGarden
+Home automated garden
